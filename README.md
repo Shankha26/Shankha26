@@ -1,62 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d1117,70:0a0a2e,100:00d4ff&height=240&section=header&text=Shankha%20deep%20Swarnakar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20·%20AI%20Builder%20·%20Open%20to%20Work&descAlignY=58&descSize=17&descColor=00d4ff" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🚀+Building+AI-powered+full-stack+products;🧠+TypeScript+%7C+Python+%7C+React+%7C+Node.js;🛠️+Turning+wild+ideas+into+production+apps;💡+Let's+build+something+legendary+together!)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shankha%20deep%20Swarnakar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Open%20to%20Work&descAlignY=60&descSize=16&descColor=ffffffcc" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/Shankha26"><img src="https://komarev.com/ghpvc/?username=Shankha26&label=Profile+Views&color=00d4ff&style=flat-square" alt="views"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/💼_Open_to-Opportunities-00ff88?style=flat-square&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📍_Based_in-India-ff6b6b?style=flat-square&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-AI_%26_Full--Stack-7c83fd?style=flat-square&labelColor=0d1117"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=🚀+Building+AI-powered+full-stack+products;🧠+TypeScript+%7C+Python+%7C+React+%7C+Node.js;🛠️+Turning+wild+ideas+into+production+apps;💡+Let's+build+something+legendary+together!)](https://git.io/typing-svg)
+
+<br/>
+
+<p>
+  <a href="https://github.com/Shankha26">
+    <img src="https://komarev.com/ghpvc/?username=Shankha26&label=Profile%20Views&color=58a6ff&style=flat" alt="views"/>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Shankha26?tab=followers">
+    <img src="https://img.shields.io/github/followers/Shankha26?label=Followers&style=flat&color=58a6ff" alt="followers"/>
+  </a>
+  &nbsp;·&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat" alt="status"/>
+  &nbsp;·&nbsp;
+  <img src="https://img.shields.io/badge/Location-India%20🇮🇳-fe7d37?style=flat" alt="location"/>
+</p>
 
 </div>
 
 ---
 
-## 📌 Pinned
+## 📌 Featured Repositories
 
 <div align="center">
 
 <a href="https://github.com/Shankha26/AI-INTERVIEWER">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=AI-INTERVIEWER&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c83fd&text_color=8b949e&border_radius=16" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=AI-INTERVIEWER&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" />
 </a>
-<a href="https://github.com/Shankha26/Shankha-deep-Swarnakar">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=Shankha-deep-Swarnakar&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c83fd&text_color=8b949e&border_radius=16" />
-</a>
-
-<a href="https://github.com/Shankha26/web-1">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=web-1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c83fd&text_color=8b949e&border_radius=16" />
-</a>
-<a href="https://github.com/Shankha26/web-2">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=web-2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c83fd&text_color=8b949e&border_radius=16" />
+<a href="https://github.com/Shankha26/ResumeForge-ATS-Resume-Builder">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=ResumeForge-ATS-Resume-Builder&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" />
 </a>
 
 <a href="https://github.com/Shankha26/AI-Robotics-Summer-Workshop">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=AI-Robotics-Summer-Workshop&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c83fd&text_color=8b949e&border_radius=16" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=AI-Robotics-Summer-Workshop&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" />
 </a>
-<a href="https://github.com/Shankha26/ResumeForge-ATS-Resume-Builder">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=ResumeForge-ATS-Resume-Builder&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c83fd&text_color=8b949e&border_radius=16" />
+<a href="https://github.com/Shankha26/Shankha-deep-Swarnakar">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=Shankha-deep-Swarnakar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" />
+</a>
+
+<a href="https://github.com/Shankha26/web-1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=web-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" />
+</a>
+<a href="https://github.com/Shankha26/web-2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=web-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" />
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```ts
+```typescript
 const shankha = {
-  name     : "Shankha deep Swarnakar",
-  role     : "Full-Stack Developer  🖥️",
-  stack    : ["TypeScript", "Python", "React", "Node.js", "AI/ML"],
-  building : ["DataMind-AI 🧠", "SENTINEL 🛡️"],
-  mantra   : "Ship fast. Learn faster. Break nothing (ideally) 🚀",
-  openTo   : "Freelance · Full-time · Collabs — DM me anytime 🤝",
+  name        : "Shankha deep Swarnakar",
+  role        : "Full-Stack Developer",
+  location    : "India 🇮🇳",
+  stack       : ["TypeScript", "Python", "React", "Node.js", "AI/ML"],
+  currentWork : ["AI-INTERVIEWER 🤖", "ResumeForge 📄"],
+  interests   : ["Generative AI", "System Design", "Open Source"],
+  openTo      : "Freelance  ·  Full-time  ·  Collaborations",
+  quote       : "Ship fast. Learn faster. Build things that matter.",
 };
 ```
 
@@ -66,84 +76,91 @@ const shankha = {
 
 <div align="center">
 
-**Languages**
+**Core Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark" />
 
-**Frontend & Backend**
+**Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" />
 
-**AI / Data**
+**AI / Data / Cloud**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+<img src="https://skillicons.dev/icons?i=openai,tensorflow,firebase,supabase,aws&theme=dark" />
 
-**Databases & DevOps**
+**Tools & Platforms**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,postman&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shankha26&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&ring_color=00d4ff&count_private=true&border_radius=12" height="170"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shankha26&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=7c83fd&dates=c9d1d9&stroke=00d4ff&border_radius=12" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankha26&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8&border_radius=12" height="155"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shankha26&bg_color=0d1117&color=00d4ff&line=7c83fd&point=ffffff&area=true&area_color=00d4ff20&hide_border=true&radius=6&custom_title=Shankha's%20Contribution%20Graph%202026" width="100%"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shankha26&theme=darkhub&no-frame=true&margin-w=6&margin-h=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shankha-d-eep-swarnakar-588a8a30b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00d4ff)](https://shankha-deep-swarnakar.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shankha26)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swarnakarshankhadee86@gmail.com)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shankha26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true&include_all_commits=true&border_radius=12"/>
+<img height="180" src="https://streak-stats.demolab.com?user=Shankha26&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=12"/>
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20the%20closest%20thing%20we%20have%20to%20a%20superpower&author=Shankha26"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankha26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&border_radius=12"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a0a2e,100:000000&height=110&section=footer&reversal=false" width="100%"/>
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shankha26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shankha26&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&area_color=58a6ff&hide_border=true&radius=6&custom_title=Contribution%20Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shankha-d-eep-swarnakar-588a8a30b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://shankha-deep-swarnakar.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:swarnakarshankhadee86@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Shankha26">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> *"The best way to predict the future is to build it."* — Alan Kay
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=false" width="100%"/>
