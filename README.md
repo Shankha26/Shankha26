@@ -18,6 +18,35 @@
 
 ---
 
+## 📌 Pinned
+
+<div align="center">
+
+<a href="https://github.com/Shankha26/AI-INTERVIEWER">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=AI-INTERVIEWER&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c83fd&text_color=8b949e&border_radius=16" />
+</a>
+<a href="https://github.com/Shankha26/Shankha-deep-Swarnakar">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=Shankha-deep-Swarnakar&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c83fd&text_color=8b949e&border_radius=16" />
+</a>
+
+<a href="https://github.com/Shankha26/web-1">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=web-1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c83fd&text_color=8b949e&border_radius=16" />
+</a>
+<a href="https://github.com/Shankha26/web-2">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=web-2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c83fd&text_color=8b949e&border_radius=16" />
+</a>
+
+<a href="https://github.com/Shankha26/AI-Robotics-Summer-Workshop">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=AI-Robotics-Summer-Workshop&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c83fd&text_color=8b949e&border_radius=16" />
+</a>
+<a href="https://github.com/Shankha26/ResumeForge-ATS-Resume-Builder">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=ResumeForge-ATS-Resume-Builder&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c83fd&text_color=8b949e&border_radius=16" />
+</a>
+
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 
 ```ts
@@ -30,35 +59,6 @@ const shankha = {
   openTo   : "Freelance · Full-time · Collabs — DM me anytime 🤝",
 };
 ```
-
----
-
-## 📌 Pinned Projects
-
-<div align="center">
-
-<a href="https://github.com/Shankha26/AI-INTERVIEWER">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=AI-INTERVIEWER&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&border_radius=12" />
-</a>
-<a href="https://github.com/Shankha26/ResumeForge-ATS-Resume-Builder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=ResumeForge-ATS-Resume-Builder&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&border_radius=12" />
-</a>
-
-<a href="https://github.com/Shankha26/DataMind-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=DataMind-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&border_radius=12" />
-</a>
-<a href="https://github.com/Shankha26/SENTINEL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=SENTINEL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&border_radius=12" />
-</a>
-
-<a href="https://github.com/Shankha26/Chococrush">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=Chococrush&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&border_radius=12" />
-</a>
-<a href="https://github.com/Shankha26/report-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=report-ui&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&border_radius=12" />
-</a>
-
-</div>
 
 ---
 
