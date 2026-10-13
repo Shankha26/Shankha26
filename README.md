@@ -1,54 +1,62 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00d4ff&height=220&section=header&text=Shankha%20deep%20Swarnakar&fontSize=42&fontColor=00d4ff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=18&descColor=7c83fd" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d1117,70:0a0a2e,100:00d4ff&height=240&section=header&text=Shankha%20deep%20Swarnakar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20·%20AI%20Builder%20·%20Open%20to%20Work&descAlignY=58&descSize=17&descColor=00d4ff" width="100%"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Building+intelligent+full-stack+apps+%F0%9F%9A%80;AI+%7C+TypeScript+%7C+Python+%7C+React+%E2%9A%A1;Turning+ideas+into+production-ready+products;Open+to+opportunities+%E2%80%94+let%27s+connect!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🚀+Building+AI-powered+full-stack+products;🧠+TypeScript+%7C+Python+%7C+React+%7C+Node.js;🛠️+Turning+wild+ideas+into+production+apps;💡+Let's+build+something+legendary+together!)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile badges row -->
-<a href="https://github.com/Shankha26">
-  <img src="https://komarev.com/ghpvc/?username=Shankha26&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="profile views"/>
-</a>
-<a href="https://github.com/Shankha26?tab=followers">
-  <img src="https://img.shields.io/github/followers/Shankha26?label=Followers&style=for-the-badge&color=7c83fd&labelColor=0d1117" alt="followers"/>
-</a>
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-00d4ff?style=for-the-badge&labelColor=0d1117" alt="focus"/>
-<img src="https://img.shields.io/badge/Open%20to-Work-39ff14?style=for-the-badge&labelColor=0d1117" alt="open to work"/>
+<a href="https://github.com/Shankha26"><img src="https://komarev.com/ghpvc/?username=Shankha26&label=Profile+Views&color=00d4ff&style=flat-square" alt="views"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/💼_Open_to-Opportunities-00ff88?style=flat-square&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📍_Based_in-India-ff6b6b?style=flat-square&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI_%26_Full--Stack-7c83fd?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 🧑‍💻 About Me
 
-```typescript
+```ts
 const shankha = {
-  name:       "Shankha deep Swarnakar",
-  location:   "India 🇮🇳",
-  role:       "Full-Stack Developer",
-  passion:    ["AI/ML", "Web Apps", "Developer Tools"],
-  currentlyBuilding: ["DataMind-AI 🧠", "SENTINEL 🛡️"],
-  funFact:    "I ship AI-powered apps faster than I drink coffee ☕",
-  lookingFor: "Exciting opportunities & collaborations 🤝",
+  name     : "Shankha deep Swarnakar",
+  role     : "Full-Stack Developer  🖥️",
+  stack    : ["TypeScript", "Python", "React", "Node.js", "AI/ML"],
+  building : ["DataMind-AI 🧠", "SENTINEL 🛡️"],
+  mantra   : "Ship fast. Learn faster. Break nothing (ideally) 🚀",
+  openTo   : "Freelance · Full-time · Collabs — DM me anytime 🤝",
 };
 ```
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Pinned Projects
 
 <div align="center">
 
-| Project | Description | Stack | Live |
-|---------|-------------|-------|------|
-| 🧠 **[DataMind-AI](https://github.com/Shankha26/DataMind-AI)** | AI-powered data analysis & insights platform | Python, AI/ML | — |
-| 🛡️ **[SENTINEL](https://github.com/Shankha26/SENTINEL)** | Security monitoring & alerting system | TypeScript, Node.js | — |
-| 🤖 **[AI-INTERVIEWER](https://github.com/Shankha26/AI-INTERVIEWER)** | Conduct AI-powered mock interviews | HTML, JS, AI | [🔗 Live](https://ai-interviewer-tau-two.vercel.app) |
-| 📄 **[ResumeForge](https://github.com/Shankha26/ResumeForge-ATS-Resume-Builder)** | ATS-optimized resume builder | JavaScript | [🔗 Live](https://resume-forge-ats-resume-builder.vercel.app) |
-| 🍫 **[Chococrush](https://github.com/Shankha26/Chococrush)** | E-commerce / interactive web experience | TypeScript | — |
+<a href="https://github.com/Shankha26/AI-INTERVIEWER">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=AI-INTERVIEWER&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&border_radius=12" />
+</a>
+<a href="https://github.com/Shankha26/ResumeForge-ATS-Resume-Builder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=ResumeForge-ATS-Resume-Builder&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&border_radius=12" />
+</a>
+
+<a href="https://github.com/Shankha26/DataMind-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=DataMind-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&border_radius=12" />
+</a>
+<a href="https://github.com/Shankha26/SENTINEL">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=SENTINEL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&border_radius=12" />
+</a>
+
+<a href="https://github.com/Shankha26/Chococrush">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=Chococrush&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&border_radius=12" />
+</a>
+<a href="https://github.com/Shankha26/report-ui">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha26&repo=report-ui&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&border_radius=12" />
+</a>
 
 </div>
 
@@ -58,31 +66,34 @@ const shankha = {
 
 <div align="center">
 
-### ⚡ Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=0d1117)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6&labelColor=0d1117)
+**Languages**
 
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=0d1117)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=3c873a&labelColor=0d1117)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI & Data
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=412991&labelColor=0d1117)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-0d1117?style=for-the-badge&logo=google&logoColor=00d4ff&labelColor=0d1117)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375bd2&labelColor=0d1117)
+**Frontend & Backend**
 
-### ☁️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032&labelColor=0d1117)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007acc&labelColor=0d1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169e1&labelColor=0d1117)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47a248&labelColor=0d1117)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+**AI / Data**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Databases & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -92,22 +103,14 @@ const shankha = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shankha26&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&ring_color=00d4ff&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shankha26&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c83fd&text_color=c9d1d9&ring_color=00d4ff&count_private=true&border_radius=12" height="170"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shankha26&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=7c83fd&dates=c9d1d9&stroke=00d4ff&border_radius=12" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shankha26&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=7c83fd&dates=c9d1d9&stroke=00d4ff" height="165" alt="Streak Stats"/>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankha26&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8&border_radius=12" height="155"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankha26&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" height="150" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shankha26&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=7" alt="trophies"/>
 </div>
 
 ---
@@ -115,7 +118,15 @@ const shankha = {
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shankha26&bg_color=0d1117&color=00d4ff&line=7c83fd&point=00d4ff&area=true&area_color=00d4ff&hide_border=true&custom_title=Shankha's%20Contribution%20Graph" width="100%" alt="contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shankha26&bg_color=0d1117&color=00d4ff&line=7c83fd&point=ffffff&area=true&area_color=00d4ff20&hide_border=true&radius=6&custom_title=Shankha's%20Contribution%20Graph%202026" width="100%"/>
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shankha26&theme=darkhub&no-frame=true&margin-w=6&margin-h=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </div>
 
 ---
@@ -124,15 +135,15 @@ const shankha = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Shankha26-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=161b22)](https://github.com/Shankha26)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117)](https://linkedin.com/in/shankha-deep-swarnakar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d4ff?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117)](https://shankha-deep-swarnakar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shankha-d-eep-swarnakar-588a8a30b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00d4ff)](https://shankha-deep-swarnakar.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shankha26)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swarnakarshankhadee86@gmail.com)
 
 <br/>
 
-> *"Code is the closest thing we have to a superpower."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20the%20closest%20thing%20we%20have%20to%20a%20superpower&author=Shankha26"/>
 
 </div>
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00d4ff&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a0a2e,100:000000&height=110&section=footer&reversal=false" width="100%"/>
